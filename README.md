@@ -1,7 +1,7 @@
 # Spatialsurf
 
 Spatialsurf is an open source infinite runner developed by TheAidency using the Unity game engine. Most of the game's logic is handled by a singular game manager class, with UI handlers added on top. The source code itself is provided under the MPL 2.0, but individual assets in the game are subject to different licenses as explained below.
-![Across the sea of space, the stars are other suns....](https://raw.githubusercontent.com/TheAidency/Spatialsurf/main/readme/Spatialsurf-Web.jpg)
+![Across the sea of space, the stars are other suns....](https://raw.githubusercontent.com/TheAidency/OpenSS/main/readme/Spatialsurf-Web.jpg)
 
 # Licensing + Credit
 
